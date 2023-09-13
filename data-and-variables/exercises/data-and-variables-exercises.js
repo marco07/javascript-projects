@@ -11,6 +11,8 @@ console.log(Shuttle_Speed +" (mph)");
 let Distance_to_Mars;
 Distance_to_Mars="225,000,000";
 console.log(Distance_to_Mars +" (Km)");
+
+console.log("Esto es una prueba de guardar cambios")
 // Use console.log to print the 'typeof' each variable. Print one item per line.
 
 // Calculate a space mission below
